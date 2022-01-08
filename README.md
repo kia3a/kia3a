@@ -1,5 +1,6 @@
-#ABOUT
-###✨ Hello I am Kiara,
+# ABOUT
+
+### ✨ Hello I am Kiara,
 
 I have an associated degree in Business and completed the Google Data Analytics Professional Certificated. After workinf for almost three years as Financial and Process Analyst in a multinational consumer company and Project Controller for International Transport. I am looking for a career to Data Analytics.
 
