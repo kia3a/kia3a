@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kia3a
 - 👀 I’m interested in Data Analysis  
 - 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on Finance
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
