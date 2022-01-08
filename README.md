@@ -2,7 +2,7 @@
 
 ### ✨ Hello I am Kiara,
 
-I have an associated degree in Business and completed the Google Data Analytics Professional Certificated. After working for almost three years as Financial and Process Analyst in a multinational consumer company and Project Controller for International Transport. I am looking for a career to Data Analytics.
+I have an associated degree in Business and completed the Google Data Analytics Professional Certificated. After working for almost three years as Financial and Process Analyst in a multinational consumer company and Project Controller for International Transport. I am looking for a career change to Data Analytics.
 
 This repository contains all the projects that I have been developing in my Data Science path. 
 
